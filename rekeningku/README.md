@@ -1,16 +1,16 @@
-# rekeningku
+# UAS Pemrograman Mobile 2
 
-A new Flutter project.
+bash
+Nama    : Alvian Saputra Pratama
+Nim     : 312110274
+Kelas   : TI.21.A3
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Sumber API
 
-A few resources to get you started if this is your first Flutter project:
+https://api.reku.id/v2/bidask
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Output
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ss mobile](https://github.com/alviansaputrap/api-rekeningku/assets/127611058/83eb98ae-d8d2-4943-9c33-41f80bec9c41)
+
